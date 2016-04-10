@@ -259,7 +259,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/nimaanonymous/Best1Bot.git
+https://github.com/A-N-bot/NA.git
 
 channel : @bartarhack
 sodu : @anonymou3nk
