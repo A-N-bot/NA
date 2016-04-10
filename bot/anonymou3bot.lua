@@ -253,7 +253,9 @@ function create_config( )
     "antilink",
     "antitag",
     "addplug",
-    "setsticker"
+    "setsticker",
+    "salam",
+    "me"
     },
 	    sudo_users = {119408525,173345972},--Sudo users
     disabled_channels = {},
